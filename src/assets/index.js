@@ -24,6 +24,11 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import profile from "./profile.png";
+import project1 from "./project1.png";
+import project2 from "./project22.png";
+import mylogo from './mylogo.png'
+import mylogo2 from './mylogo2.png'
+import footerImg from './footer.jpg'
 
 export {
   airbnb,
@@ -52,4 +57,9 @@ export {
   people02,
   people03,
   profile,
+  project1,
+  project2,
+  mylogo,
+  mylogo2,
+  footerImg
 };
